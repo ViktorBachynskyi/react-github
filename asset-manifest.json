@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-github/static/css/main.3e73cec0.css",
+    "main.js": "/react-github/static/js/main.a14eec7f.js",
+    "index.html": "/react-github/index.html",
+    "main.3e73cec0.css.map": "/react-github/static/css/main.3e73cec0.css.map",
+    "main.a14eec7f.js.map": "/react-github/static/js/main.a14eec7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e73cec0.css",
+    "static/js/main.a14eec7f.js"
+  ]
+}
